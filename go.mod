@@ -1,4 +1,4 @@
-module github.com/roman-mazur/design-practice-2-template
+module github.com/wsderte/Volens-nolens
 
 go 1.14
 

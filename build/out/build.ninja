@@ -26,7 +26,7 @@ build out/bin/bood: g.gomodule.binaryBuild | cmd/bood/main.go $
         gomodule/tested-binary.go ../go.mod
     description = Build bood as Go binary
     outputPath = out/bin/bood
-    pkg = github.com/wsderte/design-practice-2-template/build/cmd/bood
+    pkg = github.com/wsderte/Volens-nolens/build/cmd/bood
     workDir = .
 default out/bin/bood
 
